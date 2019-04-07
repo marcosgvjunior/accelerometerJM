@@ -18,6 +18,7 @@ NodeMCU que controla um servo-motor.
 
 Referências:
 
+- https://github.com/neumannrf/ibm-cloud-tutorial
 - https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050
 - https://github.com/jash101/arduino/blob/master/mpu6050/mpucalib.ino
 - https://github.com/kkpoon/CalibrateMPU6050
